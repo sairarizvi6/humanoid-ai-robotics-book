@@ -1,0 +1,28 @@
+{
+  "unversionedId": "navigation-and-bipedal-locomotion",
+  "id": "navigation-and-bipedal-locomotion",
+  "title": "Navigation and Bipedal Locomotion",
+  "description": "The Art of Autonomous Movement",
+  "source": "@site/docs/09-navigation-and-bipedal-locomotion.md",
+  "sourceDirName": ".",
+  "slug": "/navigation-and-bipedal-locomotion",
+  "permalink": "/navigation-and-bipedal-locomotion",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09-navigation-and-bipedal-locomotion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Navigation and Bipedal Locomotion",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS and Perception",
+    "permalink": "/isaac-ros-and-perception"
+  },
+  "next": {
+    "title": "Vision-Language-Action Models",
+    "permalink": "/vision-language-action-models"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "conversational-robotics-voice-to-action",
+  "id": "conversational-robotics-voice-to-action",
+  "title": "Conversational Robotics - Voice to Action",
+  "description": "Enabling Natural Human-Robot Communication",
+  "source": "@site/docs/11-conversational-robotics-voice-to-action.md",
+  "sourceDirName": ".",
+  "slug": "/conversational-robotics-voice-to-action",
+  "permalink": "/conversational-robotics-voice-to-action",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11-conversational-robotics-voice-to-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Conversational Robotics - Voice to Action",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action Models",
+    "permalink": "/vision-language-action-models"
+  },
+  "next": {
+    "title": "Balance, Manipulation, and Whole-Body Control",
+    "permalink": "/balance-manipulation-and-whole-body-control"
+  }
+}

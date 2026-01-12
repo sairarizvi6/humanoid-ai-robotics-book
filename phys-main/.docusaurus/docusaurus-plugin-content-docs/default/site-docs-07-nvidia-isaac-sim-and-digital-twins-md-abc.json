@@ -1,0 +1,28 @@
+{
+  "unversionedId": "nvidia-isaac-sim-and-digital-twins",
+  "id": "nvidia-isaac-sim-and-digital-twins",
+  "title": "NVIDIA Isaac Sim and Digital Twins",
+  "description": "Advanced Simulation for Robotic AI",
+  "source": "@site/docs/07-nvidia-isaac-sim-and-digital-twins.md",
+  "sourceDirName": ".",
+  "slug": "/nvidia-isaac-sim-and-digital-twins",
+  "permalink": "/nvidia-isaac-sim-and-digital-twins",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07-nvidia-isaac-sim-and-digital-twins.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "NVIDIA Isaac Sim and Digital Twins",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation with Gazebo",
+    "permalink": "/simulation-with-gazebo"
+  },
+  "next": {
+    "title": "Isaac ROS and Perception",
+    "permalink": "/isaac-ros-and-perception"
+  }
+}

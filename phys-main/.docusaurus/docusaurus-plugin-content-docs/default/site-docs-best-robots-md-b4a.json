@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recommended-humanoid-robots",
+  "id": "recommended-humanoid-robots",
+  "title": "Recommended Humanoid Robots",
+  "description": "Humanoid robots represent the pinnacle of embodied AI, pushing the boundaries of mechanical design, control, and artificial intelligence. While these advanced machines are often expensive and complex, understanding their capabilities and design philosophies is crucial for any student of Physical AI. This guide introduces some of the most prominent and influential humanoid robots, highlighting their unique features and contributions to the field.",
+  "source": "@site/docs/best-robots.md",
+  "sourceDirName": ".",
+  "slug": "/recommended-humanoid-robots",
+  "permalink": "/recommended-humanoid-robots",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/best-robots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "recommended-humanoid-robots",
+    "title": "Recommended Humanoid Robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone - Autonomous Humanoid",
+    "permalink": "/capstone-autonomous-humanoid"
+  },
+  "next": {
+    "title": "Student Hardware Guide",
+    "permalink": "/student-hardware-guide"
+  }
+}

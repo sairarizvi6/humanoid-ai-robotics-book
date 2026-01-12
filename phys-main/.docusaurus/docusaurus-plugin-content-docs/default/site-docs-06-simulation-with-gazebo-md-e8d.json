@@ -1,0 +1,28 @@
+{
+  "unversionedId": "simulation-with-gazebo",
+  "id": "simulation-with-gazebo",
+  "title": "Simulation with Gazebo",
+  "description": "Building Virtual Worlds for Robotics",
+  "source": "@site/docs/06-simulation-with-gazebo.md",
+  "sourceDirName": ".",
+  "slug": "/simulation-with-gazebo",
+  "permalink": "/simulation-with-gazebo",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06-simulation-with-gazebo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Simulation with Gazebo",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensors in Physical AI",
+    "permalink": "/sensors-in-physical-ai"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Sim and Digital Twins",
+    "permalink": "/nvidia-isaac-sim-and-digital-twins"
+  }
+}

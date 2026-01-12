@@ -1,0 +1,28 @@
+{
+  "unversionedId": "urdf-and-robot-description",
+  "id": "urdf-and-robot-description",
+  "title": "URDF and Robot Description",
+  "description": "Giving Robots a Digital Identity",
+  "source": "@site/docs/04-urdf-and-robot-description.md",
+  "sourceDirName": ".",
+  "slug": "/urdf-and-robot-description",
+  "permalink": "/urdf-and-robot-description",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-urdf-and-robot-description.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "URDF and Robot Description",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 - The Robotic Nervous System",
+    "permalink": "/ros2-the-robotic-nervous-system"
+  },
+  "next": {
+    "title": "Sensors in Physical AI",
+    "permalink": "/sensors-in-physical-ai"
+  }
+}

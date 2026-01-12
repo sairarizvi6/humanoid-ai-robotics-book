@@ -1,0 +1,28 @@
+{
+  "unversionedId": "isaac-ros-and-perception",
+  "id": "isaac-ros-and-perception",
+  "title": "Isaac ROS and Perception",
+  "description": "Accelerating AI Perception in Robotics",
+  "source": "@site/docs/08-isaac-ros-and-perception.md",
+  "sourceDirName": ".",
+  "slug": "/isaac-ros-and-perception",
+  "permalink": "/isaac-ros-and-perception",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08-isaac-ros-and-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Isaac ROS and Perception",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Sim and Digital Twins",
+    "permalink": "/nvidia-isaac-sim-and-digital-twins"
+  },
+  "next": {
+    "title": "Navigation and Bipedal Locomotion",
+    "permalink": "/navigation-and-bipedal-locomotion"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ros2-the-robotic-nervous-system",
+  "id": "ros2-the-robotic-nervous-system",
+  "title": "ROS 2 - The Robotic Nervous System",
+  "description": "The Foundation of Modern Robotics",
+  "source": "@site/docs/03-ros2-the-robotic-nervous-system.md",
+  "sourceDirName": ".",
+  "slug": "/ros2-the-robotic-nervous-system",
+  "permalink": "/ros2-the-robotic-nervous-system",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-ros2-the-robotic-nervous-system.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "ROS 2 - The Robotic Nervous System",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embodied Intelligence and Humanoids",
+    "permalink": "/embodied-intelligence-and-humanoids"
+  },
+  "next": {
+    "title": "URDF and Robot Description",
+    "permalink": "/urdf-and-robot-description"
+  }
+}

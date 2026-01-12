@@ -1,0 +1,116 @@
+{
+  "/__docusaurus/debug-2ee": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/__docusaurus/debug/config-cbb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/__docusaurus/debug/content-8af": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-459": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/__docusaurus/debug/metadata-548": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/__docusaurus/debug/registry-26f": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/__docusaurus/debug/routes-d43": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-03-d04"
+    }
+  },
+  "/-a9c": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---c-55-3f7"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/-96c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
+  },
+  "/balance-manipulation-and-whole-body-control-55e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---balance-manipulation-and-whole-body-controlfee-44d"
+  },
+  "/capstone-autonomous-humanoid-a1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---capstone-autonomous-humanoid-42-a-4dc"
+  },
+  "/conversational-robotics-voice-to-action-86a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---conversational-robotics-voice-to-action-927-ebd"
+  },
+  "/embodied-intelligence-and-humanoids-5e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---embodied-intelligence-and-humanoidsd-91-d31"
+  },
+  "/introduction-to-physical-ai-2e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introduction-to-physical-aicc-0-9aa"
+  },
+  "/isaac-ros-and-perception-062": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---isaac-ros-and-perception-837-a90"
+  },
+  "/navigation-and-bipedal-locomotion-09f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---navigation-and-bipedal-locomotionc-62-860"
+  },
+  "/nvidia-isaac-sim-and-digital-twins-2dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---nvidia-isaac-sim-and-digital-twinsabc-833"
+  },
+  "/recommended-humanoid-robots-99f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recommended-humanoid-robotsb-4-a-e8a"
+  },
+  "/ros2-the-robotic-nervous-system-0d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ros-2-the-robotic-nervous-system-9-f-7-9f2"
+  },
+  "/sensors-in-physical-ai-3eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sensors-in-physical-aice-9-48d"
+  },
+  "/simulation-with-gazebo-3ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---simulation-with-gazeboe-8-d-d22"
+  },
+  "/student-hardware-guide-22b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---student-hardware-guide-3-a-1-78e"
+  },
+  "/urdf-and-robot-description-5a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---urdf-and-robot-description-3-f-3-f70"
+  },
+  "/vision-language-action-models-1d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vision-language-action-models-6-c-6-70a"
+  }
+}

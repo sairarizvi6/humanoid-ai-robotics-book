@@ -1,0 +1,28 @@
+{
+  "unversionedId": "capstone-autonomous-humanoid",
+  "id": "capstone-autonomous-humanoid",
+  "title": "Capstone - Autonomous Humanoid",
+  "description": "Integrating for Intelligent Action",
+  "source": "@site/docs/13-capstone-autonomous-humanoid.md",
+  "sourceDirName": ".",
+  "slug": "/capstone-autonomous-humanoid",
+  "permalink": "/capstone-autonomous-humanoid",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13-capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Capstone - Autonomous Humanoid",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Balance, Manipulation, and Whole-Body Control",
+    "permalink": "/balance-manipulation-and-whole-body-control"
+  },
+  "next": {
+    "title": "Recommended Humanoid Robots",
+    "permalink": "/recommended-humanoid-robots"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\HP\\Downloads\\phys-main\\phys-main\\sidebars.js",
+          "contentPath": "C:\\Users\\HP\\Downloads\\phys-main\\phys-main\\docs",
+          "contentPathLocalized": "C:\\Users\\HP\\Downloads\\phys-main\\phys-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "balance-manipulation-and-whole-body-control",
+              "id": "balance-manipulation-and-whole-body-control",
+              "title": "Balance, Manipulation, and Whole-Body Control",
+              "description": "Mastering Physical Interaction",
+              "source": "@site/docs/12-balance-manipulation-and-whole-body-control.md",
+              "sourceDirName": ".",
+              "slug": "/balance-manipulation-and-whole-body-control",
+              "permalink": "/balance-manipulation-and-whole-body-control",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12-balance-manipulation-and-whole-body-control.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "title": "Balance, Manipulation, and Whole-Body Control",
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conversational Robotics - Voice to Action",
+                "permalink": "/conversational-robotics-voice-to-action"
+              },
+              "next": {
+                "title": "Capstone - Autonomous Humanoid",
+                "permalink": "/capstone-autonomous-humanoid"
+              }
+            },
+            {
+              "unversionedId": "capstone-autonomous-humanoid",
+              "id": "capstone-autonomous-humanoid",
+              "title": "Capstone - Autonomous Humanoid",
+              "description": "Integrating for Intelligent Action",
+              "source": "@site/docs/13-capstone-autonomous-humanoid.md",
+              "sourceDirName": ".",
+              "slug": "/capstone-autonomous-humanoid",
+              "permalink": "/capstone-autonomous-humanoid",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13-capstone-autonomous-humanoid.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "title": "Capstone - Autonomous Humanoid",
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Balance, Manipulation, and Whole-Body Control",
+                "permalink": "/balance-manipulation-and-whole-body-control"
+              },
+              "next": {
+                "title": "Recommended Humanoid Robots",
+                "permalink": "/recommended-humanoid-robots"
+              }
+            },
+            {
+              "unversionedId": "conversational-robotics-voice-to-action",
+              "id": "conversational-robotics-voice-to-action",
+              "title": "Conversational Robotics - Voice to Action",
+              "description": "Enabling Natural Human-Robot Communication",
+              "source": "@site/docs/11-conversational-robotics-voice-to-action.md",
+              "sourceDirName": ".",
+              "slug": "/conversational-robotics-voice-to-action",
+              "permalink": "/conversational-robotics-voice-to-action",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11-conversational-robotics-voice-to-action.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "title": "Conversational Robotics - Voice to Action",
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vision-Language-Action Models",
+                "permalink": "/vision-language-action-models"
+              },
+              "next": {
+                "title": "Balance, Manipulation, and Whole-Body Control",
+                "permalink": "/balance-manipulation-and-whole-body-control"
+              }
+            },
+            {
+              "unversionedId": "embodied-intelligence-and-humanoids",
+              "id": "embodied-intelligence-and-humanoids",
+              "title": "Embodied Intelligence and Humanoids",
+              "description": "Building upon our introduction to Physical AI, this chapter delves deeper into the concept of embodied intelligence and its ultimate manifestation: humanoid robots. Embodied intelligence posits that an agent's physical body, its sensory-motor capabilities, and its interactions within the environment are not just incidental to, but fundamentally constitutive of its intelligence. Humanoid robots, with their human-like form and capabilities, serve as a compelling platform to explore these ideas, offering unique challenges and opportunities in the quest for truly intelligent machines.",
+              "source": "@site/docs/02-embodied-intelligence.md",
+              "sourceDirName": ".",
+              "slug": "/embodied-intelligence-and-humanoids",
+              "permalink": "/embodied-intelligence-and-humanoids",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-embodied-intelligence.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "embodied-intelligence-and-humanoids",
+                "title": "Embodied Intelligence and Humanoids"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Physical AI",
+                "permalink": "/introduction-to-physical-ai"
+              },
+              "next": {
+                "title": "ROS 2 - The Robotic Nervous System",
+                "permalink": "/ros2-the-robotic-nervous-system"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Welcome to Physical AI & Humanoid Robotics",
+              "description": "Physical AI & Humanoid Robotics: Bridging Digital Intelligence and the Physical World",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro",
+                "title": "Welcome to Physical AI & Humanoid Robotics",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Student Hardware Guide",
+                "permalink": "/student-hardware-guide"
+              }
+            },
+            {
+              "unversionedId": "introduction-to-physical-ai",
+              "id": "introduction-to-physical-ai",
+              "title": "Introduction to Physical AI",
+              "description": "Physical AI is an emerging field that combines artificial intelligence with robotic systems, allowing machines to perceive, understand, and interact with the physical world. Unlike traditional AI, which often operates within digital confines, Physical AI empowers robots to perform tasks in real-world environments, requiring them to handle uncertainty, adapt to changing conditions, and make decisions based on sensory input. This introductory chapter will lay the groundwork for understanding what Physical AI entails, its historical context, and its profound implications for the future.",
+              "source": "@site/docs/01-introduction.md",
+              "sourceDirName": ".",
+              "slug": "/introduction-to-physical-ai",
+              "permalink": "/introduction-to-physical-ai",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "introduction-to-physical-ai",
+                "title": "Introduction to Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Embodied Intelligence and Humanoids",
+                "permalink": "/embodied-intelligence-and-humanoids"
+              }
+            },
+            {
+              "unversionedId": "isaac-ros-and-perception",
+              "id": "isaac-ros-and-perception",
+              "title": "Isaac ROS and Perception",
+              "description": "Accelerating AI Perception in Robotics",
+              "source": "@site/docs/08-isaac-ros-and-perception.md",
+              "sourceDirName": ".",
+              "slug": "/isaac-ros-and-perception",
+              "permalink": "/isaac-ros-and-perception",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08-isaac-ros-and-perception.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "title": "Isaac ROS and Perception",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NVIDIA Isaac Sim and Digital Twins",
+                "permalink": "/nvidia-isaac-sim-and-digital-twins"
+              },
+              "next": {
+                "title": "Navigation and Bipedal Locomotion",
+                "permalink": "/navigation-and-bipedal-locomotion"
+              }
+            },
+            {
+              "unversionedId": "navigation-and-bipedal-locomotion",
+              "id": "navigation-and-bipedal-locomotion",
+              "title": "Navigation and Bipedal Locomotion",
+              "description": "The Art of Autonomous Movement",
+              "source": "@site/docs/09-navigation-and-bipedal-locomotion.md",
+              "sourceDirName": ".",
+              "slug": "/navigation-and-bipedal-locomotion",
+              "permalink": "/navigation-and-bipedal-locomotion",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09-navigation-and-bipedal-locomotion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "title": "Navigation and Bipedal Locomotion",
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS and Perception",
+                "permalink": "/isaac-ros-and-perception"
+              },
+              "next": {
+                "title": "Vision-Language-Action Models",
+                "permalink": "/vision-language-action-models"
+              }
+            },
+            {
+              "unversionedId": "nvidia-isaac-sim-and-digital-twins",
+              "id": "nvidia-isaac-sim-and-digital-twins",
+              "title": "NVIDIA Isaac Sim and Digital Twins",
+              "description": "Advanced Simulation for Robotic AI",
+              "source": "@site/docs/07-nvidia-isaac-sim-and-digital-twins.md",
+              "sourceDirName": ".",
+              "slug": "/nvidia-isaac-sim-and-digital-twins",
+              "permalink": "/nvidia-isaac-sim-and-digital-twins",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/07-nvidia-isaac-sim-and-digital-twins.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "NVIDIA Isaac Sim and Digital Twins",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulation with Gazebo",
+                "permalink": "/simulation-with-gazebo"
+              },
+              "next": {
+                "title": "Isaac ROS and Perception",
+                "permalink": "/isaac-ros-and-perception"
+              }
+            },
+            {
+              "unversionedId": "recommended-humanoid-robots",
+              "id": "recommended-humanoid-robots",
+              "title": "Recommended Humanoid Robots",
+              "description": "Humanoid robots represent the pinnacle of embodied AI, pushing the boundaries of mechanical design, control, and artificial intelligence. While these advanced machines are often expensive and complex, understanding their capabilities and design philosophies is crucial for any student of Physical AI. This guide introduces some of the most prominent and influential humanoid robots, highlighting their unique features and contributions to the field.",
+              "source": "@site/docs/best-robots.md",
+              "sourceDirName": ".",
+              "slug": "/recommended-humanoid-robots",
+              "permalink": "/recommended-humanoid-robots",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/best-robots.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "recommended-humanoid-robots",
+                "title": "Recommended Humanoid Robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capstone - Autonomous Humanoid",
+                "permalink": "/capstone-autonomous-humanoid"
+              },
+              "next": {
+                "title": "Student Hardware Guide",
+                "permalink": "/student-hardware-guide"
+              }
+            },
+            {
+              "unversionedId": "ros2-the-robotic-nervous-system",
+              "id": "ros2-the-robotic-nervous-system",
+              "title": "ROS 2 - The Robotic Nervous System",
+              "description": "The Foundation of Modern Robotics",
+              "source": "@site/docs/03-ros2-the-robotic-nervous-system.md",
+              "sourceDirName": ".",
+              "slug": "/ros2-the-robotic-nervous-system",
+              "permalink": "/ros2-the-robotic-nervous-system",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-ros2-the-robotic-nervous-system.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "ROS 2 - The Robotic Nervous System",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Embodied Intelligence and Humanoids",
+                "permalink": "/embodied-intelligence-and-humanoids"
+              },
+              "next": {
+                "title": "URDF and Robot Description",
+                "permalink": "/urdf-and-robot-description"
+              }
+            },
+            {
+              "unversionedId": "sensors-in-physical-ai",
+              "id": "sensors-in-physical-ai",
+              "title": "Sensors in Physical AI",
+              "description": "The Eyes, Ears, and Touch of a Robot",
+              "source": "@site/docs/05-sensors-in-physical-ai.md",
+              "sourceDirName": ".",
+              "slug": "/sensors-in-physical-ai",
+              "permalink": "/sensors-in-physical-ai",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05-sensors-in-physical-ai.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Sensors in Physical AI",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF and Robot Description",
+                "permalink": "/urdf-and-robot-description"
+              },
+              "next": {
+                "title": "Simulation with Gazebo",
+                "permalink": "/simulation-with-gazebo"
+              }
+            },
+            {
+              "unversionedId": "simulation-with-gazebo",
+              "id": "simulation-with-gazebo",
+              "title": "Simulation with Gazebo",
+              "description": "Building Virtual Worlds for Robotics",
+              "source": "@site/docs/06-simulation-with-gazebo.md",
+              "sourceDirName": ".",
+              "slug": "/simulation-with-gazebo",
+              "permalink": "/simulation-with-gazebo",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/06-simulation-with-gazebo.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Simulation with Gazebo",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensors in Physical AI",
+                "permalink": "/sensors-in-physical-ai"
+              },
+              "next": {
+                "title": "NVIDIA Isaac Sim and Digital Twins",
+                "permalink": "/nvidia-isaac-sim-and-digital-twins"
+              }
+            },
+            {
+              "unversionedId": "student-hardware-guide",
+              "id": "student-hardware-guide",
+              "title": "Student Hardware Guide",
+              "description": "Welcome to the exciting world of Physical AI and Humanoid Robotics! To get the most out of this textbook and its practical assignments, having access to certain hardware can significantly enhance your learning experience. While many concepts can be explored through simulation, hands-on interaction with physical robots or development kits provides invaluable insights.",
+              "source": "@site/docs/hardware-guide.md",
+              "sourceDirName": ".",
+              "slug": "/student-hardware-guide",
+              "permalink": "/student-hardware-guide",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware-guide.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "student-hardware-guide",
+                "title": "Student Hardware Guide"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Recommended Humanoid Robots",
+                "permalink": "/recommended-humanoid-robots"
+              },
+              "next": {
+                "title": "Welcome to Physical AI & Humanoid Robotics",
+                "permalink": "/"
+              }
+            },
+            {
+              "unversionedId": "urdf-and-robot-description",
+              "id": "urdf-and-robot-description",
+              "title": "URDF and Robot Description",
+              "description": "Giving Robots a Digital Identity",
+              "source": "@site/docs/04-urdf-and-robot-description.md",
+              "sourceDirName": ".",
+              "slug": "/urdf-and-robot-description",
+              "permalink": "/urdf-and-robot-description",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-urdf-and-robot-description.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "URDF and Robot Description",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 - The Robotic Nervous System",
+                "permalink": "/ros2-the-robotic-nervous-system"
+              },
+              "next": {
+                "title": "Sensors in Physical AI",
+                "permalink": "/sensors-in-physical-ai"
+              }
+            },
+            {
+              "unversionedId": "vision-language-action-models",
+              "id": "vision-language-action-models",
+              "title": "Vision-Language-Action Models",
+              "description": "Bridging Perception, Cognition, and Action with Language",
+              "source": "@site/docs/10-vision-language-action-models.md",
+              "sourceDirName": ".",
+              "slug": "/vision-language-action-models",
+              "permalink": "/vision-language-action-models",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10-vision-language-action-models.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "title": "Vision-Language-Action Models",
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Navigation and Bipedal Locomotion",
+                "permalink": "/navigation-and-bipedal-locomotion"
+              },
+              "next": {
+                "title": "Conversational Robotics - Voice to Action",
+                "permalink": "/conversational-robotics-voice-to-action"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "introduction-to-physical-ai"
+              },
+              {
+                "type": "doc",
+                "id": "embodied-intelligence-and-humanoids"
+              },
+              {
+                "type": "doc",
+                "id": "ros2-the-robotic-nervous-system"
+              },
+              {
+                "type": "doc",
+                "id": "urdf-and-robot-description"
+              },
+              {
+                "type": "doc",
+                "id": "sensors-in-physical-ai"
+              },
+              {
+                "type": "doc",
+                "id": "simulation-with-gazebo"
+              },
+              {
+                "type": "doc",
+                "id": "nvidia-isaac-sim-and-digital-twins"
+              },
+              {
+                "type": "doc",
+                "id": "isaac-ros-and-perception"
+              },
+              {
+                "type": "doc",
+                "id": "navigation-and-bipedal-locomotion"
+              },
+              {
+                "type": "doc",
+                "id": "vision-language-action-models"
+              },
+              {
+                "type": "doc",
+                "id": "conversational-robotics-voice-to-action"
+              },
+              {
+                "type": "doc",
+                "id": "balance-manipulation-and-whole-body-control"
+              },
+              {
+                "type": "doc",
+                "id": "capstone-autonomous-humanoid"
+              },
+              {
+                "type": "doc",
+                "id": "recommended-humanoid-robots"
+              },
+              {
+                "type": "doc",
+                "id": "student-hardware-guide"
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

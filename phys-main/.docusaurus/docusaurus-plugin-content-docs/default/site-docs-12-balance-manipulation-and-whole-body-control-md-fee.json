@@ -1,0 +1,28 @@
+{
+  "unversionedId": "balance-manipulation-and-whole-body-control",
+  "id": "balance-manipulation-and-whole-body-control",
+  "title": "Balance, Manipulation, and Whole-Body Control",
+  "description": "Mastering Physical Interaction",
+  "source": "@site/docs/12-balance-manipulation-and-whole-body-control.md",
+  "sourceDirName": ".",
+  "slug": "/balance-manipulation-and-whole-body-control",
+  "permalink": "/balance-manipulation-and-whole-body-control",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12-balance-manipulation-and-whole-body-control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Balance, Manipulation, and Whole-Body Control",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conversational Robotics - Voice to Action",
+    "permalink": "/conversational-robotics-voice-to-action"
+  },
+  "next": {
+    "title": "Capstone - Autonomous Humanoid",
+    "permalink": "/capstone-autonomous-humanoid"
+  }
+}
